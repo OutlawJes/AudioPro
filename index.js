@@ -80,4 +80,4 @@ monitor.on('down', (res) => console.log(`${res.website} se ha caído - ${res.sta
 monitor.on('stop', (website) => console.log(`${website} se ha parado.`) );
 monitor.on('error', (error) => console.log(error));
 
-client.login('NzUzNzg3MDQ1NTkxMjUzMDMz.X1rQ5A.nMJy-xIwB9ZtdhiLIubVdsxyVwA');
+client.login('');
